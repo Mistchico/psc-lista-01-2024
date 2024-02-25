@@ -1,0 +1,12 @@
+CRIAR CLASSE:
+     public class (nome do projeto) {
+
+    public static void. main(String[] args){
+      System.out.println("Olá mundo!");
+}
+}
+
+
+  OBS: System.out.println = irá imprimir a mensagem
+
+OBS 2: preciso baixar a extensão JAVA.EX dentro do visual studio code (o portogal studio não reconhece a linguagem java)
